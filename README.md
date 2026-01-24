@@ -2,7 +2,7 @@
 
 ## Computer Engineering Student & Aspiring Collab with Biology
 
-I am a first-year Computer Engineering student at **Istanbul University-Cerrahpasa (IUC)**, currently in the language preparatory school. I am excited about the common points of **Software Engineering** and **Biology**.
+I am a first-year Computer Engineering student at **Istanbul University-Cerrahpasa (IUC)**, currently in the language preparatory school. I am excited about the meet common points of **Software Engineering** and **Biology**.
 
 ### 🛠 What I’m Working On
 - **Python Development:** Strengthening my fundamentals in Python and working on solution-based projects to improve my Python skills.
