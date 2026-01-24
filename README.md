@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Faruk Taha BAŞAR
 
-## Computer Engineering Student & Aspiring Collab with Biology
+## Computer Engineering Student & Tech Enthusiast
 
-I am a first-year Computer Engineering student at **Istanbul University-Cerrahpasa (IUC)**, currently in the language preparatory school. I am excited about the common points of **Software Engineering** and **Biology**.
+I am a first-year Computer Engineering student at **Istanbul University-Cerrahpasa (IUC)**, currently in the language preparatory school. I am passionate about the logic of computing and try to build projects that solve everyday problems.
 
 ### 🛠 What I’m Working On
-- **Python Development:** Strengthening my fundamentals in Python and working on solution-based projects to improve my Python skills.
+- **Python Fundamentals:** Strengthening my fundamentals in Python and working on solution-based projects to improve my Python skills.
 - **Global Communication:** Contributing to the **TED's Open Translation Project** as a volunteer translator, providing translation for my native language and developing my English skills further! (English to Turkish).
 
 ### 🚀 Mini-Side Projects (Improving my coding skills with 'Vibe-Coding')
-- **ER-PULSE**: A terminal-based project developed in Python for saving the information of patients (such as heart rate, oxygen saturation, etc.) and prioritize them for a more efficent time-management. 
+- **ER-PULSE**: A terminal-based project developed in Python for saving the information of patients (such as heart rate, oxygen saturation, etc.) and prioritize them for a more efficent time-management.
+- **Python-Fundamentals**: A collection of my basic exercises for Python to improve my coding skills during my IUC prep year.
 
 ### 🧬 Interests
-- **Biology:** Exploring numerous fascinating information about Biology and excited to intersect them with **Computer Engineering** in the future!
-- **Software languages:** Learning new software languages and provide a solution-based projects as far as I can do! 
+- **Computer Engineering**: Exploring the core concepts of hardware and software integration.
+- **Technology Exploration**: Constantly learning new tools and languages to broaden my perspective.
 
 ### 📚 Learning Journey
-- Currently improving my technical English and moving towards advanced Python.
-- Exploring open-source projects in the field of health informatics.
-- Learning and exploring about **Bioinformatics**, which is an appealing side for my future objective!
+- Currently improving my **Technical English** and moving towards advanced **Python**.
+- Exploring different areas of technology to find my future path as an engineer.
 
 ### 📫 Let's Connect
 - LinkedIn: https://tr.linkedin.com/in/faruk-taha-basar
