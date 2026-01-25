@@ -6,10 +6,10 @@ I am a first-year Computer Engineering student at **Istanbul University-Cerrahpa
 
 ### 🛠 What I’m Working On
 - **Python Fundamentals:** Strengthening my fundamentals in Python and working on solution-based projects to improve my Python skills.
+- **ER-PULSE**: A terminal-based project developed in Python for saving the information of patients (such as heart rate, oxygen saturation, etc.) and prioritize them for a more efficent time-management.
 - **Global Communication:** Contributing to the **TED's Open Translation Project** as a volunteer translator, providing translation for my native language and developing my English skills further! (English to Turkish).
 
 ### 🚀 Mini-Side Projects (Improving my coding skills with 'Vibe-Coding')
-- **ER-PULSE**: A terminal-based project developed in Python for saving the information of patients (such as heart rate, oxygen saturation, etc.) and prioritize them for a more efficent time-management.
 - **Python-Fundamentals**: A collection of my basic exercises for Python to improve my coding skills during my IUC prep year.
 
 ### 🧬 Interests
