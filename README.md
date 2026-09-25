@@ -4,6 +4,5 @@
 
 ---
 
-📫 **Get in touch:**
 - **LinkedIn:** https://www.linkedin.com/in/faruk-taha-basar/
 - **Email:** faruk.taha.basarr@gmail.com
